@@ -1,0 +1,15 @@
+body {
+  color: black;
+  background-color: #E3E1E3;
+  font-family: monospace;
+  font-size: 20px; }
+
+#easy-id-selector {
+  border: 1px darkgray inset;
+  height: 70px;
+  margin: 0 auto;
+  padding-top: 30px;
+  text-align: center;
+  width: 80%; }
+
+/*# sourceMappingURL=style.css.map */

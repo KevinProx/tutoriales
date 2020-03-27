@@ -1,0 +1,17 @@
+@import "_variables";
+
+body {
+  color: $main-font-color;
+  background-color: $background;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+#easy-id-selector {
+  border: 1px darkgray inset;
+  height: 70px;
+  margin: 0 auto;
+  padding-top: 30px;
+  text-align: center;
+  width: 80%;
+}
